@@ -1,0 +1,14 @@
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\bin\Debug\net8.0\arrayLesson.exe
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\bin\Debug\net8.0\arrayLesson.deps.json
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\bin\Debug\net8.0\arrayLesson.runtimeconfig.json
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\bin\Debug\net8.0\arrayLesson.dll
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\bin\Debug\net8.0\arrayLesson.pdb
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.AssemblyInfoInputs.cache
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.AssemblyInfo.cs
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.csproj.CoreCompileInputs.cache
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.dll
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\refint\arrayLesson.dll
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.pdb
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.genruntimeconfig.cache
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\ref\arrayLesson.dll
