@@ -12,3 +12,4 @@ C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.
 C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.pdb
 C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.genruntimeconfig.cache
 C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\ref\arrayLesson.dll
+C:\Users\jbree\OneDrive\Documents\GitHub\arrayLesson\arrayLesson\obj\Debug\net8.0\arrayLesson.sourcelink.json

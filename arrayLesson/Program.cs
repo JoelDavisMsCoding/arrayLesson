@@ -1,13 +1,16 @@
-﻿namespace arrayLesson
+﻿using System.Diagnostics.Metrics;
+
+namespace arrayLesson
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            DiceRoller();
-        }
-//-------------------------------------------------------------------------------------------------------------
 
+          
+        }
+
+//-------------------------------------------------------------------------------------------------------------
         static void NumberCube()
         {
             //Declare Variables
@@ -206,6 +209,7 @@
                 //2                 
                 {'G', 'H', 'I'}           
             };
+
             /*Console.WriteLine(ticTacToe[1,1]);
             
             for (int row = 0; row < ticTacToe.GetLength(0); row++)
